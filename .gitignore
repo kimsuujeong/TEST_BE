@@ -72,3 +72,6 @@ Temporary Items
 # End of https://www.toptal.com/developers/gitignore/api/macos
 
 .DS_Store
+README.md
+*.iml
+*.log
