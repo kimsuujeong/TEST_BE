@@ -11,4 +11,9 @@ public class TestController {
         return "hi";
     }
 	
+	@GetMapping("/by")
+	public String by() {
+		return "by";
+	}
+	
 }
